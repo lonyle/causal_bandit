@@ -2,12 +2,13 @@
 one needs to install python (>=3.7), R, and the packages used in the code (e.g. pandas, numpy, matplotlib)
 
 since we modifies the source code of GRF (https://github.com/grf-labs/grf), one needs to recompile the grf library by 
-$ cd grf/r-package
-$ Rscript build_package.R
+``` $ cd grf/r-package```
+
+``` $ Rscript build_package.R```
 
 
 # How to run the code
-$ bash run.sh
+```$ bash run.sh ```
 
 # The example in Section 1: Introduction
 the code is in example.py
